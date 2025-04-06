@@ -1,4 +1,5 @@
 # Examples
+adi2704
 
 This reference application includes two different functionalities to showcase Seal's capabilities:
 
